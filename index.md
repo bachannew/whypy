@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bachan Python
+title:Welcome To Phython
+description: Great start to this new language which is easy
 
 You can use the [editor on GitHub](https://github.com/bachannew/whypy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
